@@ -3,7 +3,7 @@ Description: >-
   Creates a new CodeCommit Repository
 Parameters:
   PipelineName:
-    Description: CSS Pipeline
+    Description: This is my Pipeline
     Type: String
   S3Bucket:
     Description: The name of the S3 bucket that contains the source artifact, which must be in the same region as this stack
